@@ -3,3 +3,6 @@ Repository per l'opzione complementare Informatica 2024/25
 
 ## Basi di Python
 [Jupyter Notebook: Python in 60 minuti](Basi-Python/python_in_60_minuti.ipynb)
+
+## Manipolazione files
+[filesystem.ipynb](Manipolazione-Files/filesystem.ipynb)
